@@ -14,7 +14,7 @@
 
 Quando um celular é roubado, o relógio corre: o ladrão tenta acessar o e-mail, os aplicativos de banco e o Pix antes que a vítima consiga reagir. Hoje a vítima precisa, em pânico, ligar para a operadora, o banco, o fabricante, redefinir senhas, revogar apps conectados e ainda registrar a ocorrência, em canais diferentes e sem saber por onde começar.
 
-(Adicionar aqui 1 ou 2 dados reais sobre roubo de celulares e fraudes por Pix, **com a fonte**.)
+Em 2025, o Brasil registrou **792.284 roubos e furtos de celular**, segundo o 20º Anuário Brasileiro de Segurança Pública, do Fórum Brasileiro de Segurança Pública, uma queda de 7,7% em relação a 2024 ([Jovem Pan, 23/07/2026](https://jovempan.com.br/brasil/anuario-revela-as-10-cidades-com-mais-roubos-e-furtos-de-celular-em-2025-confira/)). Já as fraudes confirmadas por Pix somaram **ao menos R$ 24,5 bilhões** entre janeiro de 2022 e abril de 2026, e **só 8,9% desse valor foi devolvido**, segundo dados do Banco Central compilados pelo [O POVO+ (24/07/2026)](https://mais.opovo.com.br/reportagens-especiais/2026/07/24/a-cada-rs-100-em-golpes-no-pix-instituicoes-devolvem-apenas-rs-890.html).
 
 ## A solução
 
