@@ -23,7 +23,7 @@ O Guardian é uma central que a pessoa abre **em um computador seguro** e que co
 | # | Proteção | O que o Guardian faz (na demo, simulado) |
 |---|---|---|
 | 1 | Proteger o dispositivo | Localiza, toca alarme, ativa o Modo Perdido, aplica bloqueio remoto e remove a conta do fabricante |
-| 2 | Bloquear a linha telefônica | Pede o bloqueio à operadora, suspende a linha e desativa o chip/eSIM |
+| 2 | Bloquear a linha de telefônica | Pede o bloqueio à operadora, suspende a linha e desativa o chip/eSIM |
 | 3 | Proteger as instituições financeiras | Em cada banco: encerra sessões, bloqueia cartões, zera o limite do Pix e remove o aparelho confiável |
 | 4 | Revogar consentimentos Open Finance | Verifica e revoga, um a um, os compartilhamentos de dados ativos |
 | 5 | Proteger e-mail e contas digitais | Encerra sessões, redefine a senha, ativa verificação em duas etapas, remove o telefone de recuperação e revisa regras de encaminhamento |
